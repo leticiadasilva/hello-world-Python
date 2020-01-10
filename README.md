@@ -6,4 +6,4 @@ Esse repositório tem por objetivo concentrar resoluções de problemas fáceis 
 
 O repositório está separado por pastas, é só você procurar a do seu interesse (ou abrir uma [issue](https://github.com/leticiadasilva/hello-world-Python/issues) com a sua dúvida, que eu ou alguém vai responder assim que puder) e ver se o código é o que você precisa. 
 
-    CTRL + F pode ajudar :smile:
+    CTRL + F pode ajudar :D
