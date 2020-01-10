@@ -2,6 +2,7 @@
 
 # Declare o primeiro valor
 primeiro_valor = 10
+
 # Declare o segundo valor
 segundo_valor = 9
 
