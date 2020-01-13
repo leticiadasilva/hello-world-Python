@@ -11,3 +11,12 @@ soma = primeiro_valor + segundo_valor
 
 # Imprima o resultado
 print ("SOMA = ", soma)
+
+
+
+
+
+primeiro_valor = 10
+segundo_valor = 9
+soma = primeiro_valor + segundo_valor
+print ("SOMA = ", soma)
