@@ -13,3 +13,9 @@ soma = int(valor_1) + int(valor_2)
 # Pede para imprimir (função print) o texto "SOMA = " e o concatena (concatena significa juntar algo) com a variável soma.
 # Repare que a variável soma precisa ser transformada novamente para string (str) para ser impressa.
 print ("SOMA = ", str(soma))
+
+
+valor_1 = input ("Digite o primeiro valor: ")
+valor_2 = input ("Digite o segundo valor: ")
+soma = int(valor_1) + int(valor_2)
+print ("SOMA = ", str(soma))
