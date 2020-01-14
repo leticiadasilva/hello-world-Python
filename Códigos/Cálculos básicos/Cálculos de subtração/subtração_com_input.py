@@ -7,7 +7,7 @@ primeiro_valor = input("Digite o primeiro valor: ")
 segundo_valor = input("Digite o segundo valor: ")
 
 # Faz a subtração do primeiro_valor - segundo_valor e o atribbui a variável "calculo". Atenção: o "int" antes 
-# das variáveis serve para transformá-las em números inteiros e possibilitar que o cálculo seja feito.
+# das variáveis serve para transformá-las em números inteiros e possibilitar que o cálculo seja feito (pois quando o dado vem através de um input, ele está no formato de string).
 calculo = int(primeiro_valor) - int(segundo_valor)
 
 # Pede para imprimir (função print) o texto "SUBTRAÇÃO = " e o concatena (concatena significa juntar algo) com a variável calculo.
