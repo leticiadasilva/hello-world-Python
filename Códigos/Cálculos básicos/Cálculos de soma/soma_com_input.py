@@ -1,4 +1,4 @@
-# Pede para o usuário inserir o primeiro valor da soma (input significa entrada de dados). Receve os valores em formato de string.
+# Pede para o usuário inserir o primeiro valor da soma (input significa entrada de dados). Recebe os valores em formato de string.
 # Atribui o valor digitado para a variável "valor_1"
 valor_1 = input ("Digite o primeiro valor: ")
 
