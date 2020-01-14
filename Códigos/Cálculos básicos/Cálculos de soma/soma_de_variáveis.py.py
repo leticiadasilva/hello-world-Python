@@ -7,16 +7,16 @@ primeiro_valor = 10
 segundo_valor = 9
 
 # Crie uma variável para guardar o cálculo de somatória
-soma = primeiro_valor + segundo_valor
+calculo = primeiro_valor + segundo_valor
 
 # Imprima o resultado
-print ("SOMA = ", soma)
-
-
-
+print ("SOMA = ", calculo)
 
 
 primeiro_valor = 10
+
 segundo_valor = 9
-soma = primeiro_valor + segundo_valor
-print ("SOMA = ", soma)
+
+calculo = primeiro_valor + segundo_valor
+
+print ("SOMA = ", calculo)

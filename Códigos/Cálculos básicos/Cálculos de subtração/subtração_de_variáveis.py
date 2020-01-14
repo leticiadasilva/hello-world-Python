@@ -4,19 +4,16 @@ primeiro_valor = 505
 # Atribui o valor 383 para a variável segundo_valor
 segundo_valor = 383
 
-# faz o cálculo de primeiro_valor - segundo_valor e atribui a variável "subtração"
-subtração = primeiro_valor - segundo_valor
+# faz o cálculo de primeiro_valor - segundo_valor e atribui a variável "calculo"
+calculo = primeiro_valor - segundo_valor
 
 # Imprime a variável subtração
-print (subtração)
-
-
-
+print (calculo)
 
 
 primeiro_valor = 505
 segundo_valor = 383
 
-subtração = primeiro_valor - segundo_valor
+calculo = primeiro_valor - segundo_valor
 
-print (subtração)
+print (calculo)
