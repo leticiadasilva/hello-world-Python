@@ -6,19 +6,22 @@ valor_1 = input ("Digite o primeiro valor: ")
 # Atribui o valor digitado para a variável "valor_2"
 valor_2 = input ("Digite o segundo valor: ")
 
-# Faz o cálculo do valor_1 + valor_2 e o atribbui a variável "soma". Atenção: o "int" antes 
-# das variáveis serve para transformá-las em números inteiros e possibilitar que o cálculo seja feito.
-soma = int(valor_1) + int(valor_2)
+# Faz o cálculo do valor_1 + valor_2 e o atribbui a variável "calculo". Atenção: o "int" antes 
+# das variáveis serve para transformá-las em números inteiros e possibilitar que a conta seja feita.
+calculo = int(valor_1) + int(valor_2)
 
-# Pede para imprimir (função print) o texto "SOMA = " e o concatena (concatena significa juntar algo) com a variável soma.
-# Repare que a variável soma precisa ser transformada novamente para string (str) para ser impressa.
-print ("SOMA = ", str(soma))
+# Pede para imprimir (função print) o texto "SOMA = " e o concatena (concatena significa juntar algo) com a variável calculo.
+# Repare que a variável calculo precisa ser transformada novamente para string (str) para ser impressa junto com o texto digitado.
+print ("SOMA = ", str(calculo))
 
 
 
 
 
 valor_1 = input ("Digite o primeiro valor: ")
+
 valor_2 = input ("Digite o segundo valor: ")
-soma = int(valor_1) + int(valor_2)
-print ("SOMA = ", str(soma))
+
+calculo = int(valor_1) + int(valor_2)
+
+print ("SOMA = ", str(calculo))
